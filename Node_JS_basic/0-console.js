@@ -1,7 +1,4 @@
-/* eslint-disable no-console */
-// console.log('Hello World');
-function displayMessage() {
-    console.log('Hello World');
+function displayMessage(message) {
+  console.log(message);
 }
-// displayMessage();
 module.exports = displayMessage;
