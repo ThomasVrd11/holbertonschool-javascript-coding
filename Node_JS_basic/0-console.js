@@ -1,3 +1,3 @@
 module.exports = function displayMessage(chaussure) {
-    console.log(chaussure);
-  };
+  console.log(chaussure);
+};
